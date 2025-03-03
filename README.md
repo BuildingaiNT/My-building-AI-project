@@ -4,14 +4,13 @@ My building Ai project
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# ExcersiseAI
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+ExcersiseAI is your virtual coaching assistant that analyzez training sessions and designs personalised training programs to fulfill goals in the gym. By analyzing training sessions and statistics from different monitors it can look at aspects that needs improving. 
 
 ## Background
 
